@@ -1,0 +1,11 @@
+{
+  "id": "pokerole-evolution-fx",
+  "title": "Pokérole Evolution FX",
+  "description": "Synchronized cinematic Pokémon evolution effects for Foundry VTT v13.",
+  "version": "1.1.0",
+  "compatibility": {"minimum": "13", "verified": "13"},
+  "authors": [{"name": "Pokérole Evolution FX"}],
+  "esmodules": ["scripts/main.js"],
+  "styles": ["styles/evolution.css"],
+  "socket": true
+}
